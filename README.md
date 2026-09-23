@@ -27,6 +27,10 @@ That works out to a **1.67% positive rate**.
 
 I deliberately included one seizure-free recording so the detector's false alarm behaviour could be observed on a completely normal hour.
 
+![Real vs synthetic seizure windows](results/synthetic_vs_real.png)
+
+![Augmentation results](results/augmentation_comparison.png)
+
 ## Example
 
 Running the detector produces per-fold results like this:
